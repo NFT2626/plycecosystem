@@ -1414,7 +1414,7 @@ img {
 }
 
 .hero {
-  background: #010d1a;
+  background: #000000;
   border-radius: 20px;
   padding: 40px 0px 100px;
 }
@@ -1934,7 +1934,7 @@ img {
   opacity: 0.1;
 }
 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #010d1a;
+  background: #000000;
   opacity: 1;
 }
 
