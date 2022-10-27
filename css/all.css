@@ -69,16 +69,16 @@ body.compensate-for-scrollbar {
   direction: ltr;
   opacity: 0;
   position: absolute;
-  -webkit-transition: opacity 0.25s ease, visibility 0s ease 0.25s;
-  transition: opacity 0.25s ease, visibility 0s ease 0.25s;
+  -webkit-transition: opacity 0s ease, visibility 0s ease 0.25s;
+  transition: opacity 0s ease, visibility 0s ease 0.25s;
   visibility: hidden;
   z-index: 99997;
 }
 
 .fancybox-show-caption .fancybox-caption, .fancybox-show-infobar .fancybox-infobar, .fancybox-show-nav .fancybox-navigation .fancybox-button, .fancybox-show-toolbar .fancybox-toolbar {
   opacity: 1;
-  -webkit-transition: opacity 0.25s ease 0s, visibility 0s ease 0s;
-  transition: opacity 0.25s ease 0s, visibility 0s ease 0s;
+  -webkit-transition: opacity 0s ease 0s, visibility 0s ease 0s;
+  transition: opacity 0s ease 0s, visibility 0s ease 0s;
   visibility: visible;
 }
 
